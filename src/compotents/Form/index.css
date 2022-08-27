@@ -1,0 +1,24 @@
+/* Form CSS */
+.form{
+    border: 1px solid;
+}
+.heading{
+    font-size: 45px !important;
+}
+.primary-btn{
+    height: 50px;
+}
+.error{
+    color: #d32f2f;
+    font-size: 0.75rem;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.MuiFormHelperText-root{
+    margin: 5px 0 !important;
+}
+.review-box .title{
+    font-size: 24px;
+}
+.review-box .des{
+    font-size: 16px;
+}
